@@ -3,8 +3,8 @@
   
 }
 
-h1 {
-  color: red;
+#buttons {
+  display: block;
 }
 
 .App-logo {
